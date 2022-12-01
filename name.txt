@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Organization Name : Western Digital/Sandisk India
+=======
+Organization Name : Western Digital/SANDISK INDIA Pvt Ltd
+>>>>>>> 4cba11a (Commit done from Repo B)
